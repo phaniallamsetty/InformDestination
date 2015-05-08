@@ -1,0 +1,5 @@
+D:\Work\CloudP3PSA\CloudP3PSA\bin\CloudP3PSA.dll.config
+D:\Work\CloudP3PSA\CloudP3PSA\bin\CloudP3PSA.dll
+D:\Work\CloudP3PSA\CloudP3PSA\bin\CloudP3PSA.pdb
+D:\Work\CloudP3PSA\CloudP3PSA\obj\Release\CloudP3PSA.dll
+D:\Work\CloudP3PSA\CloudP3PSA\obj\Release\CloudP3PSA.pdb

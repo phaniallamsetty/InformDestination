@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="cloudp3psa" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Work\\CloudP3PSA\\CloudP3PSA\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\Work\\CloudP3PSA\\CloudP3PSA\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
